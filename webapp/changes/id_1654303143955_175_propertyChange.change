@@ -1,0 +1,43 @@
+{
+	"fileName": "id_1654303143955_175_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "customer.supplierlist",
+	"packageName": "$TMP",
+	"content": {
+		"property": "useExportToExcel",
+		"newValue": false
+	},
+	"selector": {
+		"id": "fin.ap.supplierlist::sap.suite.ui.generic.template.ListReport.view.ListReport::C_Supplier--listReport",
+		"type": "sap.ui.comp.smarttable.SmartTable",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.ap.supplierlist/changes/",
+	"projectId": "customer.supplierlist",
+	"creation": "2022-06-04T00:39:05.066Z",
+	"originalLanguage": "JA",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.39",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.2",
+		"from": "7.0.2",
+		"to": "7.0.2"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

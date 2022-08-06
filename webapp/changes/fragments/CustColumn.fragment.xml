@@ -1,0 +1,11 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+	<!--  add your xml here -->
+<Column id="CustColumn">
+<Text id="CustomColumn" text="New Column via adaptation Project"></Text>
+<customData id="CustomData">
+<core:CustomData key="p13nData" id="CustomDataKey"
+value='\{"columnKey": "NewCol", "columnIndex" : "2"}' />
+</customData>
+</Column>
+</core:FragmentDefinition>

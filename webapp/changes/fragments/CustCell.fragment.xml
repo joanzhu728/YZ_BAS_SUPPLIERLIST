@@ -1,0 +1,5 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+	<!--  add your xml here -->
+<Text id="CustCell" width="500px" text="TEST"></Text>
+</core:FragmentDefinition>

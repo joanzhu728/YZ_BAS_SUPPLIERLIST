@@ -1,0 +1,43 @@
+{
+	"fileName": "id_1654309607514_170_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "",
+	"reference": "customer.supplierlist",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/CustColumn.fragment.xml",
+		"targetAggregation": "columns",
+		"index": 13
+	},
+	"selector": {
+		"id": "fin.ap.supplierlist::sap.suite.ui.generic.template.ListReport.view.ListReport::C_Supplier--responsiveTable",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/fin.ap.supplierlist/changes/",
+	"projectId": "customer.supplierlist",
+	"creation": "2022-06-04T02:26:48.248Z",
+	"originalLanguage": "JA",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.71.39",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "7.0.2",
+		"from": "7.0.2",
+		"to": "7.0.2"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

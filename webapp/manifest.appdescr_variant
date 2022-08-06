@@ -1,0 +1,26 @@
+{
+  "fileName": "manifest",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "appdescr_variant",
+  "reference": "fin.ap.supplierlist",
+  "id": "customer.supplierlist",
+  "namespace": "apps/fin.ap.supplierlist/appVariants/customer.supplierlist/",
+  "content": [
+    {
+      "changeType": "appdescr_app_setTitle",
+      "content": {},
+      "texts": {
+        "i18n": "i18n/i18n.properties"
+      }
+    },
+    {
+      "changeType": "appdescr_ui5_addNewModelEnhanceWith",
+      "content": {
+        "modelId": "i18n|sap.suite.ui.generic.template.ListReport|C_Supplier"
+      },
+      "texts": {
+        "i18n": "i18n/ListReport/C_Supplier/i18n.properties"
+      }
+    }
+  ]
+}

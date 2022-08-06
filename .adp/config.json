@@ -1,0 +1,11 @@
+{
+  "componentname": "fin.ap.supplierlist",
+  "safeMode": false,
+  "appvariant": "supplierlist",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "JE9_373_HTTP",
+  "isOVPApp": false,
+  "isFioriElement": true,
+  "environment": "ABAP",
+  "ui5Version": "1.71.43"
+}

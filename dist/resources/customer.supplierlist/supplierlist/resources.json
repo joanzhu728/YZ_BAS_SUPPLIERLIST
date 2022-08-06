@@ -1,0 +1,25 @@
+{
+    "resources": [
+        {
+            "name": "../../customer/supplierlist/i18n/ListReport/C_Supplier/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "../../customer/supplierlist/i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "../../customer/supplierlist/manifest-bundle.zip"
+        },
+        {
+            "name": "../../customer/supplierlist/Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "../../sap-ui-version.json"
+        },
+        {
+            "name": "../../customer/supplierlist/manifest.appdescr_variant"
+        }
+    ]
+}
